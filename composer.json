@@ -12,6 +12,7 @@
     "require": {
         "php": ">=5.4.0"
     },
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
           "aomd\\Docker\\": "src/"
